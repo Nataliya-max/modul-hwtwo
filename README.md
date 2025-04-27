@@ -77,8 +77,6 @@ Save progress using localStorage.
 
 Animations when plans disappear.
 
-📄 License
-This project is open source and free to use under the MIT License.
 
-Would you also like me to create a quick example of the main code (App.jsx) too? 🚀
-It would only take a minute!
+
+
